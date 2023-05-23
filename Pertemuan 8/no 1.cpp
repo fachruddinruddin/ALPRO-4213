@@ -4,7 +4,7 @@ void mineven(int arr[],int n);
 bool isodd(int a);
 
 int main(){
-int arr[]={8,7,6,3,4,2};
+int arr[]={6,7,4,3,2};
 int size= sizeof(arr)/sizeof(arr[0]);
 mineven(arr,size);
 return 0;
